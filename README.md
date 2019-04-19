@@ -1,9 +1,9 @@
 
 # 中国科学技术大学课程资源
-[![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars&style=social)](https://github.com/USTC-Resource/USTC-Course/stargazers)
-[![Forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg?label=Forks&style=social)](https://github.com/USTC-Resource/USTC-Course/network/members)
+[![Stars](https://img.shields.io/github/stars/CoderTonyChan/USTC-Course.svg?label=Stars&style=social)](https://github.com/USTC-Resource/USTC-Course/stargazers)
+[![Forks](https://img.shields.io/github/forks/CoderTonyChan/USTC-Course.svg?label=Forks&style=social)](https://github.com/USTC-Resource/USTC-Course/network/members)
 [![Build Status](https://travis-ci.org/CoderTonyChan/USTC-Course.svg?branch=master)](https://travis-ci.org/CoderTonyChan/USTC-Course)
-[![repo-size](https://img.shields.io/github/repo-size/USTC-Resource/USTC-Course.svg)]()
+[![repo-size](https://img.shields.io/github/repo-size/CoderTonyChan/USTC-Course.svg)]()
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >>本仓库收录中国科学技术大学众多课程资源的笔记，总结，经验等**学生原创内容**
