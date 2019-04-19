@@ -1,8 +1,9 @@
 
 # 中国科学技术大学课程资源
-[![Stars](https://img.shields.io/github/stars/CoderTonyChan/USTC-Course.svg?label=Stars&style=social)](https://github.com/USTC-Resource/USTC-Course/stargazers)
-[![Forks](https://img.shields.io/github/forks/CoderTonyChan/USTC-Course.svg?label=Forks&style=social)](https://github.com/USTC-Resource/USTC-Course/network/members)
-[![Build Status](https://travis-ci.org/CoderTonyChan/USTC-Course.svg?branch=master)](https://travis-ci.org/CoderTonyChan/USTC-Course)
+[![Stars](https://img.shields.io/github/stars/CoderTonyChan/USTC-Course.svg?label=Stars&style=social)](https://github.com/CoderTonyChan/USTC-Course/stargazers)
+[![Forks](https://img.shields.io/github/forks/CoderTonyChan/USTC-Course.svg?label=Forks&style=social)](https://github.com/CoderTonyChan/USTC-Course/network/members)
+[![Build Status](https://travis-ci.org/CoderTonyChan/
+.svg?branch=master)](https://travis-ci.org/CoderTonyChan/USTC-Course)
 [![repo-size](https://img.shields.io/github/repo-size/CoderTonyChan/USTC-Course.svg)]()
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
