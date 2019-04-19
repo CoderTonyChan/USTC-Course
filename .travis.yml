@@ -7,7 +7,7 @@ branches:
 
 env:
   # Github Pages
-  - GH_REF: github.com/USTC-Resource/USTC-Course
+  - GH_REF: github.com/CoderTonyChan/USTC-Course
 
 install:
   - pip install --upgrade pip
@@ -20,11 +20,11 @@ script:
 
 after_script:
   # Build Master Repository(Coding Pages) 
-  - git config user.name "mbinary"
-  - git config user.email "zhuheqin1@gmail.com"
+  - git config user.name "CoderTonyChan"
+  - git config user.email "101992315@qq.com"
   - cd docs
   - git init
-  - git remote add origin git@github.com:USTC-Resource/USTC-Course.git
+  - git remote add origin git@github.com:CoderTonyChan/USTC-Course.git
   - git add --all
   - git commit -m "Travis-CI Update pages with build $TRAVIS_BUILD_NUMBER"
   - git push -f "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
@@ -32,6 +32,6 @@ after_script:
 notifications:
   email:
     recipients:
-      - zhuheqin1@gmail.com
+      - hi@tonystudio.ml
     on_success: change # default: change
     on_failure: always # default: always

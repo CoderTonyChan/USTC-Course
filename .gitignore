@@ -3,6 +3,7 @@ do.sh
 .git/**
 .self/**
 .bigFile/**
+.vscode/**
 /*.zip
 !.gitignore
 ~$*
